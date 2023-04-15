@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: Norse-bold;
-  src: url(assets/fonts/Norse-Bold.otf);
+  src: url(../assets/fonts/Norse-Bold.otf);
 }
 
 body {
@@ -25,7 +25,7 @@ main {
 .left-side {
   width: 30%;
   height: 100vh;
-  background-image: url("assets/images/background-left.jpg");
+  background-image: url("../assets/images/background-left.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
